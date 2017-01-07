@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Page -->
+    <string name="app_name">My To Do List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addItem">Add New TODO</string>
+    <string name="title_activity_add_todo_item">AddTodoItem</string>
+    <!-- Main Page End -->
+    <!-- Add TODOitem Page -->
+
+    <string name="todo_item_title">New TODO Item</string>
+    <string name="todo_item_name">TODO Name</string>
+    <string name="todo_item_check">TODO Done?</string>
+    <string name="txt_todo_item_is_finished">Is Finished </string>
+    <!-- Add TODOitem Page end -->
+
+    <string name="title_activity_edit_item">edit_item</string>
+    <string name="edit_todo_item_is_finished" >edit item </string>
+
+</resources>
