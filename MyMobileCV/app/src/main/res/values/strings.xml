@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mail_send_btn_txt">Send Mail</string>
+    <string name="linked_in_btn_txt">Linked In</string>
+    <string name="web_site_btn_txt">My Website</string>
+    <string name="app_name">Caner Sarigul</string>
+    <string name="hello_world">CANER SARIGUL \nSOFTWARE DEVELOPER</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_me">About Me</string>
+    <string name="title_activity_projects">Projects</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_online_cv">Online CV</string>
+
+    <string name="btn_activity_about_me">About Me</string>
+    <string name="btn_activity_projects">Projects</string>
+    <string name="btn_activity_contact">Contact</string>
+    <string name="btn_activity_online_cv">CV</string>
+
+    <string name="head_activity_about_me">About Me</string>
+    <string name="head_activity_projects">Projects</string>
+    <string name="head_activity_contact">Contact</string>
+    <string name="contact_activity_reachmetxt">You can reach me under the following:</string>
+
+    <string name="head_activity_online_cv">CV</string>
+    <string name="about_me_text" >
+        Highly motived and result orriented software programer that can help to improve organization
+productivity and helps to organization achieve their  goals. Be able to work under the pressure
+even though, project has limited time schedule.Always try to up-to-date computer knowledge
+is my favourite principle that giving new technogical ideas to the organization, keep up to organization
+todays technology.Can be able to work with team projects and very fast oriention capability I have .
+Also widely open productivity feed-backs from my colleagues. Full stack development is welcome and
+ addition I completed  projects without any failure ,also I would like to use design patterns
+ in the projects which provide to companies fast and successfully deliver software or software packages.|
+
+    </string>
+    <string name="online_cv_text">
+     <b> CANER SARIGUL -  SOFTWARE DEVELOPER \n</b>
+High-level understanding of Software Development  Architecture, Software Engineering,
+Mobile Software Development and Software Lifecycle Management, Reverse Engineering
+in conjunction with proactive coordination, multitasking, and problem solving skills
+Technically sophisticated, multifaceted, and intuitive software developer offering
+progressive experience overseeing the development and release of applications/software,
+including coordinating the creation of complex revenue-generating
+applications/products. Adept at building front-end user interfaces and designing/redesigning
+interactive and user-friendly software, taking into consideration client needs, functionality,
+latest technological innovations, and programming standards.
+Top performer with experience JavaScript, HTML5, Native Android Development and C# Unity Scripting,
+Bug fixes, software optimization solutions and working closely with developers, clients, stakeholders, end users, and other employees
+<b>\n\n EDUCATION BACKGROUND \n</b>
+Bachelor of Science in Computer Engineering, İstanbul Kültür University, İstanbul, Turkey (Jun 2013)
+Master Program e-MBA, İstanbul Bilgi University, İstanbul, Turkey (September 2016 -Current)
+<b> \n\n TECHNOLOGY PROFICIENCY \n </b>
+<b>\n\n PROGRAMMING LANGUAGES:\n</b>	 JavaScript | C# Scripting for Unity|HTML |Android Development
+<b>\n\n SERVICES COMMUNICATION FORMATS:</b>	\n Mobile REST Integration | API Development | XML | JSON
+<b>\n\n SOFTWARE:</b>	\n Unity| Eclipse | SVN | Team Foundation Server | MSSQL | SQLite | MySQL | Visual Studio  Metaio Integraion for Mobile | Vuforia Integraion for Mobile
+<b>\n\n OPERATING SYSTEMS:</b>	\n IOS |Android | Windows | Fedora
+<b>\n\n NETWORKING PROTOCOLS:</b> \n	SSL | TCP | FTP
+<b>\n\n DESIGN PATTERNS:</b> \n	Repository Pattern | Facade Pattern | Singleton Pattern | Adapter Pattern
+<b>\n\n FRAMEWORKS:</b>	\n J-Query Mobile | Mono For Android | Xamarin
+
+
+
+
+    </string>
+
+
+</resources>
